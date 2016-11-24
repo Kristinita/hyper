@@ -2,9 +2,9 @@
 
 environment:
   matrix:
-    - platform: x64
+    - platform: x32
   GH_TOKEN:
-    secure: tEHrAaRFMrUzagNJsnU+6Esvaw/FdUXZKWz7a690VAy6zzEThB0lThHLFVKZrQrP
+    secure: 2715c20dc6f96753850ee30aab3c0af11deefe56
 
 image: Visual Studio 2015
 
