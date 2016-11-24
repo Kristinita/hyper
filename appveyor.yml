@@ -15,7 +15,6 @@ cache:
   - node_modules
 
 install:
-  - ps: Install-Product node 6 x32
   - set CI=true
   - npm -g install npm@latest
   - npm install
